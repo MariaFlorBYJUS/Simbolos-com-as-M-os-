@@ -1,0 +1,28 @@
+body
+{
+  
+  background-color: linear-gradient(to right top, #000000, #fffffff6, #ff5656, #0011ff, #604ea0);
+}
+
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(247, 0, 255);
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: rgb(99, 0, 180);
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
